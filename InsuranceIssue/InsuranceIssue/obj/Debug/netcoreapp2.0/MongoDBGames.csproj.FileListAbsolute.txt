@@ -1,0 +1,11 @@
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBGames.deps.json
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBGames.runtimeconfig.json
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBGames.runtimeconfig.dev.json
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBGames.dll
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\bin\Debug\netcoreapp2.0\MongoDBGames.pdb
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBGames.csprojResolveAssemblyReference.cache
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBGames.csproj.CoreCompileInputs.cache
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBGames.AssemblyInfoInputs.cache
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBGames.AssemblyInfo.cs
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBGames.dll
+C:\Users\Devarajulu\Downloads\MongoDB-WebApi-master\MongoDB-WebApi-master\MongoDBGames\MongoDBGames\obj\Debug\netcoreapp2.0\MongoDBGames.pdb
